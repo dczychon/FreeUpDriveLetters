@@ -11,4 +11,4 @@ Dieses Programm ermöglichgt die freigabe dieser reserviereten Laufwerksbuchstab
 
 Das Programm bietet standardmäßig nur Laufwerksbuchstaben zur freigabe an, die entweder gearde nicht verwendet werden, oder nicht Systemkritisch sind. Dadurch wird sichergestellt, dass ein entfernen des Laufwerksbuchstabens, keine negativen Effekte auf das System hat. Dieses verhalten kann über den Startparameter `f` deaktiviert werden.
 
-Dazu startet sie das Programm über die Kommandozeile wiefolgt: `FreeUpDriveLetters.exe f`
+Dazu startet sie das Programm über die Kommandozeile wie folgt: `FreeUpDriveLetters.exe f`
